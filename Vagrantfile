@@ -27,9 +27,10 @@ Vagrant.configure("2") do |config|
   
   config.vm.synced_folder "./", "/vagrant", id: "vagrant-root"
 
+  config.vm.define vconfig['box_name'] # Vagrant machine name
   config.vm.provider "virtualbox" do |v|
-  	v.name = vconfig['box_name']
-  	v.cpus = 2
+  	v.name = vconfig['box_name'] # VirtualBox VM name
+  	v.cpus = 1
 	  v.memory = 1024
   end  
 
