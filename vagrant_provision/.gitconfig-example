@@ -1,0 +1,30 @@
+[user]
+	name = Your Name
+	email = your@email.com
+
+[alias]
+        tree = log --graph --decorate --pretty=oneline --abbrev-commit
+	st = status
+	co = commit
+	ch = checkout
+	br = branch
+[core]
+#	excludesfile = /home/yourusername/.gitignore
+[heroku]
+#	remote = heroku
+#	account = work
+[color]
+	ui = true
+	status = auto
+	branch = auto
+	diff = auto
+[giggle]
+#	main-window-maximized = false
+#	main-window-geometry = 1311x875+0+24
+#	history-view-vpane-position = 426
+#	main-window-view = HistoryView
+#	file-view-vpane-position = 582
+[merge]
+#	tool = kdiff3
+[push]
+	default = simple

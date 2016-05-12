@@ -1,0 +1,33 @@
+# Python Complied Files
+*.pyc
+
+.vagrant/
+vagrant_provision/.gitconfig
+
+puppet/manifests/*.swp
+
+vendor/
+.env
+environ.py
+Procfile.dev
+web/tmp/
+tmp/
+
+# Virtual Env
+activate
+venv
+
+# Apache Logs
+logs/apache-access.log
+logs/apache-error.log
+
+# Sublime Project Workspaces
+*.sublime-project
+*.sublime-workspace
+
+# Phing Properties
+prod.properties
+
+# package controller folders
+node_modules/
+bower_components/
