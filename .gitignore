@@ -2,7 +2,8 @@
 *.pyc
 
 .vagrant/
-vagrant_provision/.gitconfig
+
+.gitconfig
 
 puppet/manifests/*.swp
 
