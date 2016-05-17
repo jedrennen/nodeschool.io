@@ -7,6 +7,7 @@ Courses (Completed or In Progress):
 -----------------------------------
 
 - [javascripting](http://nodeschool.io/#javascripting) ([code repo](https://github.com/sethvincent/javascripting))
+- [learnyounode](http://nodeschool.io/#learnyounode) ([code repo](https://www.github.com/workshopper/learnyounode))
 
 Getting Started
 ---------------
