@@ -1,6 +1,6 @@
 {
   "name": "@jedrennen/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An NPM package for the How-to-NPM tutorial",
   "repository": "https://github.com/not-found",
   "main": "index.js",
