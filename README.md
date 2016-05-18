@@ -10,6 +10,7 @@ Courses (Completed or In Progress):
 - learnyounode ([code repo](https://www.github.com/workshopper/learnyounode))
 - Scope Chains & Closures ([code repo](https://www.github.com/jesstelford/scope-chains-closures))
 - stream-adventure ([code repo](https://www.github.com/substack/stream-adventure))
+- Functional Javascript ([code repo](https://github.com/timoxley/functional-javascript-workshop))
 
 Getting Started
 ---------------
