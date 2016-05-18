@@ -6,8 +6,10 @@ This is a repository of my [NodeSchool.io](http://nodeschool.io/) course work.  
 Courses (Completed or In Progress):
 -----------------------------------
 
-- [javascripting](http://nodeschool.io/#javascripting) ([code repo](https://github.com/sethvincent/javascripting))
-- [learnyounode](http://nodeschool.io/#learnyounode) ([code repo](https://www.github.com/workshopper/learnyounode))
+- javascripting ([code repo](https://github.com/sethvincent/javascripting))
+- learnyounode ([code repo](https://www.github.com/workshopper/learnyounode))
+- Scope Chains & Closures ([code repo](https://www.github.com/jesstelford/scope-chains-closures))
+- stream-adventure ([code repo](https://www.github.com/substack/stream-adventure))
 
 Getting Started
 ---------------
