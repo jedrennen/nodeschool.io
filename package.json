@@ -2,10 +2,19 @@
   "name": "nodeschool-io-vagrantbox",
   "version": "0.0.1",
   "description": "nodejs Vagrant Box",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jedrennen/nodeschool.io"
+  },
   "main": "app.js",
   "dependencies": {
+    "concat-stream": "^1.5.1",
+    "request": "^2.72.0",
+    "split": "^1.0.0",
     "strftime": "^0.9.2",
-    "through2-map": "^2.0.0"
+    "through2-map": "^2.0.0",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^3.1.0"
   },
   "devDependencies": {},
   "scripts": {
